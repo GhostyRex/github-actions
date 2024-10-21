@@ -2,4 +2,4 @@ from src import main
 
 
 def test_addition():
-  assert summation(2, 2) == 4
+  assert main.summation(2, 2) == 4
