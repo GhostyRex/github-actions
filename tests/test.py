@@ -1,4 +1,4 @@
-from github-actions.src import main
+from src import main
 
 
 def test_addition():
