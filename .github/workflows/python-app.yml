@@ -16,7 +16,8 @@ permissions:
 
 # The workflow has a single job named build.
 jobs:
-  build:
+  # define the python job. build, test and run.
+  build-test-run:
 
     runs-on: ubuntu-latest
 
